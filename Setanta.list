@@ -1,6 +1,6 @@
 # Setanta
 # TOTAL:9
-# USER-AGENT,setantasports*
+USER-AGENT,setantasports*
 DOMAIN-SUFFIX,setantasports.com
 DOMAIN-SUFFIX,imggaming.com
 DOMAIN-SUFFIX,diceplatform.com
