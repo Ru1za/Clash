@@ -1,5 +1,4 @@
 # NAME: HBO
-DOMAIN-KEYWORD,discomax
 DOMAIN,wmff.warnermediacdn.com
 DOMAIN-SUFFIX,bcbolthboa-a.akamaihd.net
 DOMAIN-SUFFIX,cf-images.ap-southeast-1.prod.boltdns.net
@@ -47,5 +46,6 @@ DOMAIN-SUFFIX,nowe.com
 DOMAIN-SUFFIX,nowe.hk
 DOMAIN-SUFFIX,players.brightcove.net
 DOMAIN-SUFFIX,youboranqs01.com
+DOMAIN-KEYWORD,discomax
 PROCESS-NAME,com.hbo.hbonow
 
