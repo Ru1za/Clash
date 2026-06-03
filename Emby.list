@@ -1,8 +1,8 @@
 # NAME: Emby
 # DOMAIN-SUFFIX: 3
 # TOTAL: 3
+# UHD
+DOMAIN-SUFFIX,uhdnow.com
 # SNTP 
 DOMAIN-SUFFIX,cn2gias.uk
 DOMAIN-SUFFIX,array2026.cc
-# UHD
-DOMAIN-SUFFIX,uhdnow.com
